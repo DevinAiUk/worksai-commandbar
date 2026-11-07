@@ -1,11 +1,11 @@
 # Upstream Attribution & Derivative Disclosure — WorksAi CommandBar
 
-- **WorksAi Product ID**: `worksai-09`
-- **WorksAi Product Name**: WorksAi CommandBar
+- **WorksAI Product ID**: `worksai-09`
+- **WorksAI Product Name**: WorksAi CommandBar
+- **Live Subdomain**: [https://commandbar.worksai.org](https://commandbar.worksai.org)
 - **Upstream Project**: [Ueli](https://github.com/oliverschwendener/ueli)
-- **Pinned Upstream Commit SHA**: `9b54c3d` (branch `main`)
-- **Upstream License**: MIT ([Verified License File](https://github.com/oliverschwendener/ueli))
-- **Upstream Copyright Notice**: `Copyright (c) Oliver Schwendener`
+- **Pinned Upstream Commit SHA**: `9b54c3d`
+- **Upstream License**: MIT
 
 ## Non-Endorsement & Trademark Notice
-WorksAi CommandBar is an independent derivative work maintained by [WorksAi.org](https://worksai.org) and showcased on [devinai.uk](https://devinai.uk). It is not affiliated with, endorsed by, or sponsored by the upstream authors of Ueli. All upstream trademarks remain the property of their respective owners.
+WorksAi CommandBar is an independent derivative work maintained by [WorksAI.org](https://worksai.org). It is not affiliated with, endorsed by, or sponsored by the upstream authors of Ueli. All upstream trademarks remain the property of their respective owners.
