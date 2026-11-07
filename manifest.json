@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "WorksAi CommandBar",
+  "version": "1.0.0",
+  "description": "Cross-platform keystroke launcher and extensible plugin runner for Windows, macOS, Linux, and the browser.",
+  "permissions": [
+    "storage",
+    "clipboardWrite"
+  ],
+  "action": {
+    "default_popup": "public/index.html",
+    "default_title": "WorksAi CommandBar"
+  }
+}
