@@ -1,0 +1,16 @@
+{
+  "name": "@worksai/worksai-commandbar",
+  "version": "1.0.0",
+  "description": "Cross-platform keystroke launcher and extensible plugin runner for Windows, macOS, Linux, and the browser.",
+  "license": "MIT",
+  "type": "module",
+  "main": "src/index.mjs",
+  "scripts": {
+    "test": "node --test tests/product.test.mjs",
+    "lint": "node --check src/index.mjs && node --check tests/product.test.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DevinAiUk/worksai-commandbar.git"
+  }
+}
